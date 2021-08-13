@@ -14,21 +14,17 @@ h1 {
   margin-top: 20px;
 }
 
-ul {
-  display: flex;
+h3 {
+  margin-left: 18px;
   margin-top: 20px;
 }
-
-li {
-  margin-left: 10px;
-  font-size: 15px;
-  color: #7A869A;
+h4 {
+  margin-top: 20px;
+  margin-left: 18px;
 }
 
-ol {
-    margin-left: 10px;
-    color: #344563;
-    font-size: 17px;
+.tag {
+  display: flex;
 }
 
 .num {
@@ -52,14 +48,32 @@ ol {
 .btn1 {
   margin-top: 10px;
   padding: 7px 12px;
+  background-color: #EBEBFF;
+  border-radius: 14px;
+  color: #6070FF;
 }
 
 .btn2 {
   margin-top: 10px;
   padding: 7px 12px;
+  background-color: #EBEBFF;
+  border-radius: 14px;
+  color: #6070FF;
 }
 
 .btn3 {
   margin-top: 10px;
   padding: 7px 12px;
+  background-color: #EBEBFF;
+  border-radius: 14px;
+  color: #6070FF;
+}
+
+.btn4 {
+  padding: 10px 20px;
+  color: #396DF2;
+  margin-top: 16px;
+  margin-left: 20px;
+  border: 1px solid blue;
+  border-radius: 8px;
 }
