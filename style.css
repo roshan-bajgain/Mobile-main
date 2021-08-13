@@ -1,0 +1,66 @@
+h3 {
+  color: #6070ff;
+}
+
+.img {
+  position: absolute;
+  top: 29px;
+  left: 195px;
+}
+
+.logo {
+  display: inline-block;
+}
+
+h1 {
+  color: #172b4d;
+  font-size: 45px;
+  margin-top: 79px;
+}
+
+.img2 {
+  position: absolute;
+  left: 256px;
+  top: 87px;
+}
+
+.para {
+  font-size: 18px;
+}
+
+h2 {
+  color: #7f8cff;
+}
+
+.img3 {
+  position: absolute;
+  left: -4px;
+}
+
+.img4 {
+  position: absolute;
+  right: 67px;
+  top: 53px;
+}
+
+.img5 {
+    position: absolute;
+    left: 175px;
+    bottom: 66px;
+}
+
+.img6 {
+    position: absolute;
+    left: 128px;
+    bottom: 50px;
+}
+.icon {
+  display: flex;
+  padding: 5px;
+}
+.log {
+  margin-left: 25px;
+}
+.log2 {
+  margin-right: 10px;
+}
