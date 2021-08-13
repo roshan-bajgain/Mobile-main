@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.img1 {
+  margin-left: 31px;
+  margin-top: 83px;
+}
+
+h1 {
+  font-size: 47px;
+  margin-left: 32px;
+  margin-top: 20px;
+}
+
+ul {
+  display: flex;
+  margin-top: 20px;
+}
+
+li {
+  margin-left: 10px;
+  font-size: 15px;
+  color: #7A869A;
+}
+
+ol {
+    margin-left: 10px;
+    color: #344563;
+    font-size: 17px;
+}
+
+.num {
+  margin-left: 10px;
+  font-size: 15px;
+  color: #7A869A;
+}
+
+.para {
+  margin-top: 20px;
+  font-size: 24px;
+  margin-left: 10px;
+}
+
+.btn {
+  margin-top: 20px;
+  size: 50px;
+  justify-content: space-between;
+}
+
+.btn1 {
+  margin-top: 10px;
+  padding: 7px 12px;
+}
+
+.btn2 {
+  margin-top: 10px;
+  padding: 7px 12px;
+}
+
+.btn3 {
+  margin-top: 10px;
+  padding: 7px 12px;
+}
