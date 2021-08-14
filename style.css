@@ -6,7 +6,7 @@ h3 {
   position: absolute;
   top: 29px;
   left: 195px;
-  margin-left: 126px
+  margin-left: 126px;
 }
 
 .logo {
@@ -45,23 +45,26 @@ h2 {
 }
 
 .img5 {
-    position: absolute;
-    left: 175px;
-    bottom: 66px;
+  position: absolute;
+  left: 175px;
+  bottom: 66px;
 }
 
 .img6 {
-    position: absolute;
-    left: 128px;
-    bottom: 50px;
+  position: absolute;
+  left: 128px;
+  bottom: 50px;
 }
+
 .icon {
   display: flex;
   padding: 5px;
 }
+
 .log {
   margin-left: 25px;
 }
+
 .log2 {
   margin-right: 10px;
 }
